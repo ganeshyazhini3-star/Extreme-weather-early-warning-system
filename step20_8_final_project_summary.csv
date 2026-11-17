@@ -1,0 +1,14 @@
+metric,value
+Project,Extreme Weather & Micro-Climate Anomaly Early Warning System
+Early-warning development stage,Step 20 - Completed development stages
+Number of pilot cities,12
+Forecast windows,10500
+Anomaly observations counted across windows,3723
+Windows containing anomalies,1099
+Low-risk windows,9941
+Moderate-risk windows,433
+High-risk windows,126
+Total screening alerts,559
+High-priority screening alerts,126
+Moderate-priority screening alerts,433
+Final validation status,PASS
